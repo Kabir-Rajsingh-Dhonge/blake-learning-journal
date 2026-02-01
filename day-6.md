@@ -33,11 +33,11 @@ i was looking how i did on my first week it was good ,i learn some interesting t
    for nested list 
 
    - yohoho
-    - this should be a nested list 
-    1. this is nested but nested under the unorder 
+      1. this should be a nested list 
+      2. this is nested but nested under the unorder 
 
 1. trying to do opposite of it 
-  - it should work according to me if this deosn't work i will fix it 
+    - it should work according to me if this deosn't work i will fix it 
 
 
 so the other thing what i learn is that github support the  check boxes 
@@ -60,6 +60,6 @@ we use --- for horizontal ruler
 - for link just paste the link or '[link name ](here is the link )
 - for image '![image text here ]( link here )
 - for writing the inline code use 'code' for it 
-- for block of code '''python use this , what i does is highlight the code 
+- for block of code ```python use this , what it does is highlight the code 
 - i have use '>' this ealier it is used to write quote
 ___THE END ___
