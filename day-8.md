@@ -3,10 +3,10 @@
 
 today i learn about if , else ,elif in python , elif is something new i am going to use . as i have been using if else in c .
 
-
+---
 ## i made a simple calculator using if,else,elif function .
 
-    ```python
+```python
 
  # making simple calculations with cpython
 
@@ -33,9 +33,7 @@ elif c == 4:
 else:
     print(' the input is invalid') 
     
-```
----
-```python 
+-
 
 #printing the largest number 
 
@@ -51,9 +49,7 @@ elif c < b :
 else :
     print('largest number is ',c) 
 
-```
----
-```python 
+-
 
 #finding if the year is leap year 
 
