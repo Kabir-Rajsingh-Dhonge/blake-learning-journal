@@ -1,10 +1,12 @@
 # DAY - 8 
 
 
-today i learn about if , else ,elif in python , elif is something new i am going to use . as i have been using if else in c .
+Today I learn about if , else ,elif in python , elif is something new i am going to use . as i have been using if else in c .
 
 ---
-## writing code using if,else,elif function .
+## writing code using if , else , elif function .
+
+### making simple calculations with cpython
 
 ```python
 
@@ -31,11 +33,14 @@ elif c == 4:
     d= a/b
     print('the division of two numbers is :', d)
 else:
-    print(' the input is invalid') 
-    
+    print(' the input is invalid')
+```
+
 ***
 
-#printing the largest number 
+### finding the largest number
+
+```python
 
 a = int(input('enter the first number'))
 b = int(input('enter the second number'))
@@ -48,10 +53,15 @@ elif c < b :
     print("largest number is ",b)
 else :
     print('largest number is ',c) 
+```
 
 ***
 
-#finding if the year is leap year 
+### finding if the year is leap year
+
+```python
+
+ 
 
 a = int(input('Enter a year'))
 
@@ -59,9 +69,6 @@ if a % 4 == 0 and (a % 100 != 0 or a % 400 == 0) :
    print('the year is leap year')
 else :
     print("it isn't a leap year")
-
-
-*** 
 ```
 
-i commited and pushed this code 3 times including this one because i couldn't get horinzontal line between programs . i think using *** of --- instead this will give me result i want. 
+i commit and pushed this code 4 times including this one because i couldn't get horizontal line between programs .
