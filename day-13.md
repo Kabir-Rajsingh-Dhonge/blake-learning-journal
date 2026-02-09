@@ -96,4 +96,8 @@ print(human2)
 
 ##### OUTPUT
 >Blake is 19 years old.<br>
+<<<<<<< HEAD
 >Kabir is 21 years old.
+=======
+>Kabir is 21 years old.
+>>>>>>> dfdd095feb595ccc6b768e97e1ccc5b2b468dea3
