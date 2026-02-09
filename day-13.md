@@ -72,7 +72,7 @@ print(human1.haircolor)
 ```
 ##### OUTPUT 
 
->blake
+>blake<br>
 >black
 
 ### __str__() Method
@@ -95,5 +95,5 @@ print(human2)
 ```
 
 ##### OUTPUT
->Blake is 19 years old.
+>Blake is 19 years old.<br>
 >Kabir is 21 years old.
