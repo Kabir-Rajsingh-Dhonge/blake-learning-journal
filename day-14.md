@@ -28,7 +28,7 @@ print(sampleclass.count)
 ```
 >1<br>
 >2<br>
->3 
+>2
 
 #### Instance Attributes
 
@@ -64,7 +64,7 @@ print(dir(e1))
 
 1.  Public Access Modifier
     - Members (variables or methods) declared as public can be accessed from anywhere in the program.
-    -By default, all members are public in Python.
+    - By default, all members are public in Python.
 
 2.  Protected Access Modifier 
     - A member is considered protected if its name starts with a single underscore (_).
